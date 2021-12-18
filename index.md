@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+Christopher Wilson Portfolio
 
-You can use the [editor on GitHub](https://github.com/chrisw282/chrisw282.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Adventure Game - Escape House
+![image](https://user-images.githubusercontent.com/96327766/146631384-a1ead282-7457-4067-9b25-426d3ae1eac2.png)
+![image](https://user-images.githubusercontent.com/96327766/146631417-45b586ec-b733-4d5b-9f0d-a7689fdd5de1.png)
+A adventure game made in c# that involves exploring different areas and finding items.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Tradable Items Game - The Quest for Stuff
+![image](https://user-images.githubusercontent.com/96327766/146631503-79da89e5-5fc6-4034-9ea3-39ca6e284170.png)
+![image](https://user-images.githubusercontent.com/96327766/146631513-4695c3db-e88a-4e4b-a9ab-14928bf86085.png)
 
-### Markdown
+A WPF game made in c# where you can go to different areas and find/trade items with NPC's. There's also some pretty funny dialog and weird character/location choices.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Refactor 1 - Adopt a Robot
 
-```markdown
-Syntax highlighted code block
+![image](https://user-images.githubusercontent.com/96327766/146631645-345db665-79c9-4559-a23b-399867d4aa58.png)
+![image](https://user-images.githubusercontent.com/96327766/146631662-19d2688a-eb20-4687-ba64-f217eaf08f9b.png)
+![image](https://user-images.githubusercontent.com/96327766/146631678-ff2c01e8-d121-49d1-a140-e0d120fabc57.png)
 
-# Header 1
-## Header 2
-### Header 3
+C# coding assignment that involved refactoring some code without adding new functionality so that the code can look more organized.
 
-- Bulleted
-- List
+Escape House - UML Design
+![image](https://user-images.githubusercontent.com/96327766/146631785-8c5c7c16-2204-4d8e-9912-ba6ec9faf52f.png)
 
-1. Numbered
-2. List
+UML Design made for each of the classes used in my Escape House game.
 
-**Bold** and _Italic_ and `Code` text
+Substitution Cipher
 
-[Link](url) and ![Image](src)
-```
+![image](https://user-images.githubusercontent.com/96327766/146632128-2abfc356-0b53-4a8b-83c5-d33b1a9afa42.png)
+![image](https://user-images.githubusercontent.com/96327766/146632168-419ddcd1-a85e-4023-9836-c4bc373e52c2.png)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chrisw282/chrisw282.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Class group project that encrypts by replacing an alphanumeric character with an alternative element. You can choose to either encode or decode text.
